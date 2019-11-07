@@ -1,0 +1,16 @@
+body {
+  background-color: #dbd8d8;
+}
+
+#chatbox {
+  min-height: 50vh;
+  max-height: 50vh;
+  overflow-y: scroll;
+  background-color: #f1f7fc;
+  border-radius: 12.5px;
+}
+
+ul#chatbox {
+  list-style: none;
+}
+/*# sourceMappingURL=style.css.map */
